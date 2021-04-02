@@ -2,9 +2,6 @@
 
 ---
 
-##### NOW
-- 🔭 I'm a Freelance Software Engineer
-
 ##### BIO
 
  - ⚙️ I use daily: `.py` `.go` `.bash`
