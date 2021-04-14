@@ -1,6 +1,6 @@
 <h3 align="center">👋 Hi there! I'm José Hbez</h3>
 
----
+<!---
 
 ##### BIO
 
@@ -15,7 +15,7 @@
     <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=josehbez&layout=compact&hide_border=true&langs_count=10&hide=html,mako,tex,css,php">
 </p>
 
---- 
+--->
 
 <p align="center">
   <a href="#">TW</a>  •  <a href="#">IN</a>  •   <a href="#">WS</a>
